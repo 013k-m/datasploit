@@ -1,4 +1,5 @@
 anyjson
+beautifulsoup
 beautifulsoup4
 billiard
 bs4
